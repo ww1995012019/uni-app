@@ -44,7 +44,7 @@ serverless是目前很火的概念，它是下一代云技术，是真正的“�
 - serverless，让一个不懂服务器运维的开发者，可以只处理自己的业务，再不用关心热备、负载、增容、DDOS等事情。
 - serverless，让一个大学生，也可以享受世界最顶级的IT基础设置。
 
-广义的serverless，是泛语言的，PHP、JAVA、Node.js都可以用 serverless。但基于 js 的 serverless，更被业内所看中。
+广义的serverless，是泛语言的，PHP、JAVA、Node.js 都可以用 serverless。但基于 js 的 serverless，更被业内所看中。
 
 nodejs的性能本身就高于PHP，serverless又降低了js工程师进入后端领域的门槛，所以基于 Node.js 的 serverless 取得更大的发展，并被称为`云开发`。
 
